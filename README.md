@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Lorenzo, an aspiring software developer/engineer interested in growing my expertise through project-based learning.  I am currently in my second year at Rice University studying Computer Science.
+
+- 🌱 I’m currently learning Java and C
+- 📫 How to reach me: https://www.linkedin.com/in/lorenzo-rodriguez-32a950397/
+
 <!--
 **lorenzoo-rod/lorenzoo-rod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
