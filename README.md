@@ -13,7 +13,8 @@ White-box probing experiments on large language-model hidden states for detectin
 - PyTorch
 - Hugging Face
 - Scikit-learn
-[View Repository]https://github.com/lorenzoo-rod/SURF-Lie-Detector
+
+[View Repository](https://github.com/lorenzoo-rod/SURF-Lie-Detector)
 
 
 ## Technologies
