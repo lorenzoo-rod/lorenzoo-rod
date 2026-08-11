@@ -1,22 +1,30 @@
-## Hi there 👋
+## Hi, I'm Lorenzo 👋
+ 
+💻 Computer Science student @ Rice University 🦉
+💡 Interested in software engineering, backend development, and machine learning
 
-I'm Lorenzo, a current second-year student at Rice University studying Computer Science.  I am interested in exploring SWE and AI/ML.
 
-- 🌱 I’m currently learning Java, C, and Spring Boot
-- 🔭 I have also started reseach on Mechanistic Interpretability (MI)
-- 📫 How to reach me: https://www.linkedin.com/in/lorenzo-rodriguez-32a950397/
+## Featured Projects
 
-<!--
-**lorenzoo-rod/lorenzoo-rod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Deception Detection (Mechanistic Interpretability) Research
+White-box probing experiments on large language-model hidden states for detecting deceptive responses.
+- Python
+- PyTorch
+- Hugging Face
+- Scikit-learn
+[View Repository]https://github.com/lorenzoo-rod/SURF-Lie-Detector
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+**Languages:** Java, Python, C, Haskell
+
+**Backend:** Spring Boot, REST APIs, Hibernate/JPA
+
+**Data & ML:** PyTorch, NumPy, Scikit-learn, Spark
+
+**Tools:** Git, GitHub, Linux, Gradle, AWS
+
+
+## 📫 Connect
+-  LinkedIn: https://www.linkedin.com/in/lorenzo-rodriguez-32a950397/
