@@ -1,6 +1,7 @@
 ## Hi, I'm Lorenzo 👋
  
 💻 Computer Science student @ Rice University 🦉
+
 💡 Interested in software engineering, backend development, and machine learning
 
 
